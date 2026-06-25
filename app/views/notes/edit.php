@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Sửa note - Mini Note</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 

@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Danh sách Notes - Mini Note</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
